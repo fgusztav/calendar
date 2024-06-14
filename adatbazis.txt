@@ -1,0 +1,4 @@
+2020.10.10	0:10:0	Budapest	Mozi	Jo film lesz.
+2020.10.11	0:10:0	Budapest	Allatkert	Ne felejts el esernyot vinni, lehet esni fog...
+2020.10.12	0:10:0	Budapest	Park	Szep ido lesz.
+2020.11.10	0:-1:0	Budapest	Etterem	Erj oda idoben.
